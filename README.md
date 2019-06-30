@@ -1,2 +1,2 @@
 # Windows_Installer
-Osdag Python 3 installer foe windows
+Osdag Python 3 installer for windows
